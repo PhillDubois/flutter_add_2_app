@@ -1,0 +1,9 @@
+{
+  "X-Cashbee-Device-Info": "eyJzeXN0ZW0iOiJhbmRyb2lkIiwic3lzdGVtX3ZlcnNpb24iOiIzMyIsIm1vZGVsIjoiR09PR0xFIHNka19ncGhvbmU2NF9hcm02NCIsIm5hbWUiOiJzZGtfZ3Bob25lNjRfYXJtNjQifQ",
+  "X-Cashbee-Features": "embedded_cgu|dsp2_transfers|structured|vlp_full|dropdown|new_transfer_mode|popup|multi_actions|bonus_animation|sales_banner|flutter_integration",
+  "Accept": "application/json",
+  "X-Cashbee-Installation-Identifier": "7AAAD0A8-EDBB-4A40-AA18-AA034D2D4D7D-2023-02-13T15:16:38Z-08270df4f58e3c3c68b0f72aa29481ebfe3fe5eb9780f5faaa7cb9b4acfbb4aa",
+  "X-Cashbee-Version": "android.",
+  "Content-Type": "application/json",
+  "Cache-control": "no-cache"
+}
